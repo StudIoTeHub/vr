@@ -1,0 +1,3 @@
+[submodule "webvr-polyfill"]
+	path = webvr-polyfill
+	url = https://github.com/borismus/webvr-polyfill.git
